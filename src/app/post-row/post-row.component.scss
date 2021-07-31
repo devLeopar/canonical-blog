@@ -1,0 +1,9 @@
+.p-card--highlighted {
+    display: flex;
+    flex-direction: column;
+    transition: box-shadow 0.3s ease-in-out;
+    min-height:460px;
+  }
+  .p-card--highlighted:hover {
+    box-shadow: 0 5px 5px 1px rgba(17, 17, 17, 0.2);
+  }

@@ -1,0 +1,24 @@
+.p-card__content {
+  padding-top: 1rem;
+  border-top: 1px dotted #cdcdcd;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  margin: 0 0.5rem;
+  padding: 1rem 0.5rem 0.5rem;
+}
+
+.p-card__header {
+  border-bottom: none;
+  padding: 1rem;
+  border-top: 3px solid rgb(44, 43, 43);
+  border-color: #ff8936;
+}
+.p-card__footer {
+  border-top: 1px dotted #cdcdcd;
+  font-size: 0.875rem;
+  margin: auto 0.5rem 0;
+  max-width: inherit;
+  padding: 1rem 0.5rem;
+}
+
