@@ -2,9 +2,12 @@
 
 This is Ubuntu Blog row created with Angular CLI and [Vanilla framework](https://vanillaframework.io/)
 
-## Development server
+## Local Development
 
-Inside the root folder : Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+### Inside the root folder;
+
+- Run `npm install` to setup dependencies.
+- Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Build
 
